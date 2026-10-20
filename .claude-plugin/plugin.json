@@ -1,0 +1,23 @@
+{
+  "name": "supericons",
+  "version": "2.0.0",
+  "description": "Search, preview, recommend, and retrieve SVG icons by meaning through Supericons MCP.",
+  "author": {
+    "name": "Supericons",
+    "url": "https://supericons.dev/mcp/"
+  },
+  "homepage": "https://supericons.dev/mcp/",
+  "repository": "https://github.com/curlymolelabs/supericons",
+  "license": "MIT",
+  "keywords": [
+    "icons",
+    "svg",
+    "mcp",
+    "claude-code",
+    "semantic-search",
+    "icon-preview",
+    "icon-recommendations",
+    "ui-design"
+  ],
+  "mcpServers": "./.mcp.json"
+}
